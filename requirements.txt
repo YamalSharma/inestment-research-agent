@@ -1,0 +1,27 @@
+# Investment Research & Analysis Agent - Dependencies
+# Python 3.8+
+
+# Core LLM and AI
+google-generativeai>=0.3.0
+newsapi>=1.1.1  #use news API
+yfinance>=0.2.50 #real data
+
+
+# Environment and Configuration
+python-dotenv>=1.0.0
+
+# HTTP and Networking
+requests>=2.31.0
+
+# Data Processing
+# (Optional for future integration with real financial data)
+# pandas>=2.0.0
+# numpy>=1.24.0
+
+# Testing and Development (optional)
+# pytest>=7.4.0
+# pytest-asyncio>=0.21.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.0.0
+
