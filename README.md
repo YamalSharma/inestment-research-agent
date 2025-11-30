@@ -409,12 +409,9 @@ tail -f logs/investment_research.log
 
 - [ ] Machine learning sentiment classifier
 - [ ] Technical analysis indicators (RSI, MACD, Bollinger Bands)
-- [ ] Portfolio optimization recommendations
 - [ ] Real-time price alerts
 - [ ] Historical backtest validation
 - [ ] Interactive web dashboard
-- [ ] API deployment (FastAPI)
-- [ ] Database persistence (PostgreSQL)
 
 ---
 
