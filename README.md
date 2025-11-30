@@ -76,7 +76,7 @@ python-dotenv>=1.0.0           # Environment configuration
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/YamalSharma/inestment-research-agent>
 cd investment-research-agent
 ```
 
